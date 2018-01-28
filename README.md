@@ -1,2 +1,2 @@
-# omniauth-facebook
-Omniauth authentication with Facebook.
+# omniauth
+Omniauth authentication 
