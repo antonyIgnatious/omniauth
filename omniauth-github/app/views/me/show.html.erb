@@ -1,0 +1,6 @@
+<% if current_user %>
+<%= image_tag  current_user.image ,size: "50"%>
+	Hi <%= current_user.name %>,
+	<p>email : <%= current_user.email %></p>
+<% end %>
+<a href="logout">Logout</a>
